@@ -44,6 +44,9 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <jersey.version>2.26</jersey.version>
+        <sonar.projectKey>patrickmoussi88_simplifiez-le-developpement-dapplications-java-avec-spring</sonar.projectKey>
+           <sonar.organization>patrickmoussi88</sonar.organization>
+           <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
 
